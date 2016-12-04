@@ -1,4 +1,4 @@
-package ru.sbrf.socialnetwork.repositories;
+package ru.sbrf.socialnetwork.commons.repository;
 
 /**
  * Created by Ivan on 27/11/2016.
